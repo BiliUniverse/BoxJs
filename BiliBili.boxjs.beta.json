@@ -222,8 +222,8 @@
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/beta",
 			"icons": [
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/bilibili.png",
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png"
+				"https://github.com/BiliUniverse/Enhanced/raw/beta/database/icon_circled_108x.png",
+				"https://github.com/BiliUniverse/Enhanced/raw/beta/database/icon_circled_108x.png"
 			]
 		},
 		{
@@ -327,8 +327,8 @@
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Global/tree/beta",
 			"icons": [
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/bilibili.png",
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png"
+				"https://github.com/BiliUniverse/Global/raw/beta/database/icon_circled_108x.png",
+				"https://github.com/BiliUniverse/Global/raw/beta/database/icon_circled_108x.png"
 			]
 		},
 		{
@@ -454,8 +454,8 @@
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Roaming/tree/beta",
 			"icons": [
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/bilibili.png",
-				"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png"
+				"https://github.com/BiliUniverse/Roaming/raw/beta/database/icon_circled_108x.png",
+				"https://github.com/BiliUniverse/Roaming/raw/beta/database/icon_circled_108x.png"
 			]
 		}
 	]
