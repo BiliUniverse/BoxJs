@@ -250,8 +250,7 @@
 					"name": "创作中心",
 					"val": [],
 					"type": "checkboxes",
-					"items":
-					[
+					"items": [
 						{
 							"key": "171",
 							"label": "创作首页"
@@ -284,7 +283,8 @@
 							"key": "710",
 							"label": "我的直播"
 						}
-					]
+					],
+					"desc": "白色版本APP不存在此选项"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.Recommend",
@@ -337,19 +337,18 @@
 							"key": "990",
 							"label": "能量加油站"
 						}
-					]
+					],
+					"desc": "白色版本APP不存在此选项"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.More",
 					"name": "更多服务",
-					"val":
-					[
+					"val": [
 						"407",
 						"410"
 					],
 					"type": "checkboxes",
-					"items":
-					[
+					"items": [
 						{
 							"key": "407",
 							"label": "联系客服"
@@ -363,16 +362,27 @@
 							"label": "青少年守护"
 						},
 						{
+							"key": "950",
+							"label": "青少年模式（概念版）"
+						},
+						{
 							"key": "410",
 							"label": "设置"
+						},
+						{
+							"key": "741",
+							"label": "我的钱包（白色版）"
+						},
+						{
+							"key": "742",
+							"label": "稿件管理（白色版）"
 						}
 					]
 				}
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/beta",
-			"icons":
-			[
+			"icons": [
 				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png",
 				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png"
 			]
