@@ -1,6 +1,6 @@
 {
 	"id": "BiliUniverse.BiliBili.beta.sub",
-	"name": "BiliUniverse: 📺 BiliBili β",
+	"name": "🪐 BiliUniverse: 📺 BiliBili β",
 	"author": "@BiliUniverse",
 	"description": "哔哩哔哩中国版流媒体平台功能增强系列",
 	"icon": "https://avatars.githubusercontent.com/u/129515498?s=200&v=4",
@@ -8,7 +8,7 @@
 	"apps": [
 		{
 			"id": "BiliBili.Enhanced.Home.beta",
-			"name": "📺 BiliBili: Enhanced (首页) β",
+			"name": "📺 BiliBili: ⚙ Enhanced (首页) β",
 			"descs_html": [
 				"使用说明请见<a href=\"https://github.com/BiliUniverse/Universe/wiki\">wiki</a>进行配置",
 				"填写完成后记得点击此页面底端右下角的\"保存\"。"
@@ -228,7 +228,7 @@
 		},
 		{
 			"id": "BiliBili.Enhanced.Mine.beta",
-			"name": "📺 BiliBili: Enhanced (我的) β",
+			"name": "📺 BiliBili: ⚙ Enhanced (我的) β",
 			"descs_html": [
 				"使用说明请见<a href=\"https://github.com/BiliUniverse/Universe/wiki\">wiki</a>进行配置",
 				"填写完成后记得点击此页面底端右下角的\"保存\"。"
@@ -260,16 +260,12 @@
 							"label": "稿件管理"
 						},
 						{
-							"key": "533",
-							"label": "任务中心"
-						},
-						{
 							"key": "174",
 							"label": "有奖活动"
 						},
 						{
-							"key": "709",
-							"label": "开播福利"
+							"key": "533",
+							"label": "任务中心"
 						},
 						{
 							"key": "707",
@@ -278,6 +274,10 @@
 						{
 							"key": "708",
 							"label": "主播活动"
+						},
+						{
+							"key": "709",
+							"label": "开播福利"
 						},
 						{
 							"key": "710",
@@ -292,8 +292,8 @@
 					"val": [
 						"400",
 						"402",
-						"404",
-						"403"
+						"403",
+						"404"
 					],
 					"type": "checkboxes",
 					"items": [
@@ -310,24 +310,32 @@
 							"label": "个性装扮"
 						},
 						{
-							"key": "423",
-							"label": "邀好友赚红包"
+							"key": "403",
+							"label": "游戏中心"
 						},
 						{
 							"key": "404",
 							"label": "我的钱包"
 						},
 						{
-							"key": "403",
-							"label": "游戏中心"
+							"key": "406",
+							"label": "直播中心"
 						},
 						{
-							"key": "622",
-							"label": "会员购中心"
+							"key": "423",
+							"label": "邀好友赚红包"
 						},
 						{
 							"key": "514",
 							"label": "社区中心"
+						},
+						{
+							"key": "544",
+							"label": "创作中心"
+						},
+						{
+							"key": "622",
+							"label": "会员购中心"
 						},
 						{
 							"key": "924",
@@ -345,25 +353,14 @@
 					"name": "更多服务",
 					"val": [
 						"407",
-						"410"
+						"410",
+						"1028"
 					],
 					"type": "checkboxes",
 					"items": [
 						{
 							"key": "407",
 							"label": "联系客服"
-						},
-						{
-							"key": "812",
-							"label": "听视频"
-						},
-						{
-							"key": "964",
-							"label": "青少年守护"
-						},
-						{
-							"key": "950",
-							"label": "青少年模式（概念版）"
 						},
 						{
 							"key": "410",
@@ -376,6 +373,22 @@
 						{
 							"key": "742",
 							"label": "稿件管理（白色版）"
+						},
+						{
+							"key": "812",
+							"label": "听视频"
+						},
+						{
+							"key": "950",
+							"label": "青少年模式（概念版）"
+						},
+						{
+							"key": "964",
+							"label": "青少年守护"
+						},
+						{
+							"key": "1028",
+							"label": "我的NFT"
 						}
 					]
 				}
@@ -389,7 +402,7 @@
 		},
 		{
 			"id": "BiliBili.Global.beta",
-			"name": "📺 BiliBili: Global β",
+			"name": "📺 BiliBili: 🌐 Global β",
 			"descs_html": [
 				"使用说明请见<a href=\"https://github.com/BiliUniverse/Universe/wiki\">wiki</a>进行配置",
 				"填写完成后记得点击此页面底端右下角的\"保存\"。"
@@ -494,7 +507,7 @@
 		},
 		{
 			"id": "BiliBili.Roaming.beta",
-			"name": "📺 BiliBili: Roaming β",
+			"name": "📺 BiliBili: ✈ Roaming β",
 			"descs_html": [
 				"使用说明请见<a href=\"https://github.com/BiliUniverse/Universe/wiki\">wiki</a>进行配置",
 				"填写完成后记得点击此页面底端右下角的\"保存\"。"
