@@ -64,20 +64,36 @@
 							"label": "影视"
 						},
 						{
-							"key": "school",
-							"label": "校园"
+							"key": "koreavtw",
+							"label": "韩综（港澳台）"
 						},
 						{
-							"key": "165",
-							"label": "新征程"
+							"key": "game",
+							"label": "游戏"
+						},
+						{
+							"key": "mctab",
+							"label": "minecraft"
+						},
+						{
+							"key": "dhtr",
+							"label": "动画同人"
+						},
+						{
+							"key": "gaoxiao",
+							"label": "搞笑"
+						},
+						{
+							"key": "school",
+							"label": "校园"
 						},
 						{
 							"key": "kj",
 							"label": "数码"
 						},
 						{
-							"key": "koreavtw",
-							"label": "韩综（港澳台）"
+							"key": "165",
+							"label": "新征程"
 						}
 					],
 					"desc": "选择启用的首页标签页，建议不超过7个"
@@ -113,20 +129,36 @@
 							"label": "影视"
 						},
 						{
-							"key": "school",
-							"label": "校园"
+							"key": "koreavtw",
+							"label": "韩综（港澳台）"
 						},
 						{
-							"key": "165",
-							"label": "新征程"
+							"key": "game",
+							"label": "游戏"
+						},
+						{
+							"key": "mctab",
+							"label": "minecraft"
+						},
+						{
+							"key": "dhtr",
+							"label": "动画同人"
+						},
+						{
+							"key": "gaoxiao",
+							"label": "搞笑"
+						},
+						{
+							"key": "school",
+							"label": "校园"
 						},
 						{
 							"key": "kj",
 							"label": "数码"
 						},
 						{
-							"key": "koreavtw",
-							"label": "韩综（港澳台）"
+							"key": "165",
+							"label": "新征程"
 						}
 					],
 					"desc": "选择启动APP时默认展示的标签页，需选择已启用的标签页"
@@ -396,8 +428,8 @@
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/beta",
 			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png"
+				"https://github.com/BiliUniverse/Enhanced/raw/beta/database/icon_circled_108x.png",
+				"https://github.com/BiliUniverse/Enhanced/raw/beta/database/icon_circled_108x.png"
 			]
 		},
 		{
@@ -444,6 +476,7 @@
 						"217",
 						"223",
 						"234",
+						"6544",
 						"65537",
 						"65539",
 						"65541",
@@ -459,7 +492,9 @@
 						"65559",
 						"65560",
 						"65561",
-						"65563"
+						"65563",
+						"95636",
+						"168312"
 					],
 					"type": "checkboxes",
 					"items": [
@@ -548,6 +583,10 @@
 							"label": "运动"
 						},
 						{
+							"key": "6544",
+							"label": "番劇（港澳台）"
+						},
+						{
 							"key": "65537",
 							"label": "直播"
 						},
@@ -610,16 +649,24 @@
 						{
 							"key": "65563",
 							"label": "新歌热榜"
+						},
+						{
+							"key": "95636",
+							"label": "韩综（港澳台）"
+						},
+						{
+							"key": "168312",
+							"label": "節目（港澳台）"
 						}
 					],
-					"desc": "白色版本APP不存在此选项"
+					"desc": "选择要显示的分区"
 				}
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/beta",
 			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/main/database/icon_circled_108x.png"
+				"https://github.com/BiliUniverse/Enhanced/beta/main/database/icon_circled_108x.png",
+				"https://github.com/BiliUniverse/Enhanced/beta/main/database/icon_circled_108x.png"
 			]
 		},
 		{
