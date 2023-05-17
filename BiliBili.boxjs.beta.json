@@ -955,6 +955,13 @@
 					"desc": "是否启用关闭广告"
 				},
 				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.search",
+					"name": "搜索页广告开关",
+					"val": true,
+					"type": "boolean",
+					"desc": "是否启用关闭广告"
+				},
+				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.xlive",
 					"name": "直播页广告开关",
 					"val": true,
