@@ -795,84 +795,84 @@
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.splash",
-					"name": "开屏页广告开关",
+					"name": "[开屏]去广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.feed",
-					"name": "推荐页广告开关",
+					"name": "[推荐]去广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.activity",
-					"name": "推荐页活动大图",
+					"name": "[推荐]去除“活动大图”",
 					"val": false,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.story",
-					"name": "首页短视频流广告开关",
+					"name": "[首页]去除短视频流广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.cinema",
-					"name": "番剧电影广告开关",
+					"name": "[番剧电影]去除广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.view",
-					"name": "用户投稿视频广告开关",
+					"name": "[用户投稿]去除视频广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.search",
-					"name": "搜索页广告开关",
+					"name": "[搜索]去除广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.xlive",
-					"name": "直播页广告开关",
+					"name": "[直播]去除广告",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.Hot_search",
-					"name": "搜索页热搜开关",
+					"name": "[搜索]去除“热搜”",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.Hot_topics",
-					"name": "动态页热门话题开关",
+					"name": "[动态]去除“热门话题”",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.Most_visited",
-					"name": "动态页最常访问开关",
+					"name": "[动态]去除“最常访问”",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
 				},
 				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.Dynamic_adcard",
-					"name": "动态页广告动态开关",
+					"name": "[动态]去除广告动态",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
