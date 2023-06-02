@@ -843,6 +843,27 @@
 					"desc": "是否启用关闭广告"
 				},
 				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.commandDms",
+					"name": "[弹幕]去除交互式弹幕",
+					"val": false,
+					"type": "boolean",
+					"desc": "是否启用关闭广告"
+				},
+				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.colorfulDms",
+					"name": "[弹幕]替换大会员弹幕",
+					"val": false,
+					"type": "boolean",
+					"desc": "是否启用关闭广告"
+				},
+				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.MainList",
+					"name": "[评论区]去除广告",
+					"val": true,
+					"type": "boolean",
+					"desc": "是否启用关闭广告"
+				},
+				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.xlive",
 					"name": "[直播]去除广告",
 					"val": true,
