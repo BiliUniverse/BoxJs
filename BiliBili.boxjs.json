@@ -1018,6 +1018,12 @@
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用关闭广告"
+				},
+				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.blockUpLiveList",
+					"name": "[推荐]屏蔽up主直播推广",
+					"type": "text",
+					"desc": "填写up主uid,以英文逗号隔开"
 				}
 			],
 			"author": "@BiliUniverse",
