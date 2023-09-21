@@ -278,7 +278,7 @@
 					"desc": "是否启用此APP修改"
 				},
 				{
-					"id": "@BiliBili.Enhanced.Settings.Region.index",
+					"id": "@BiliBili.Enhanced.Settings.Region.Index",
 					"name": "分区",
 					"val": [
 						"1",
