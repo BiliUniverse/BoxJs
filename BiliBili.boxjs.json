@@ -929,6 +929,13 @@
 					"desc": "是否启用关闭广告"
 				},
 				{
+					"id": "@BiliBili.ADBlock.Settings.Detail.vertical",
+					"name": "[推荐]去除竖屏视频",
+					"val": false,
+					"type": "boolean",
+					"desc": "是否启用去除竖屏视频"
+				},
+				{
 					"id": "@BiliBili.ADBlock.Settings.Detail.activity",
 					"name": "[推荐]去除“活动大图”",
 					"val": false,
