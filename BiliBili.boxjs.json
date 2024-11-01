@@ -916,10 +916,10 @@
 				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.Akamaized",
-					"name": "[CDN] 重定向 港澳台 主机名",
+					"name": "[主机名] 重定向 Akamaized CDN (港澳台)",
 					"val": "upos-sz-mirrorali.bilivideo.com",
 					"type": "selects",
-					"desc": "请选择要“重定向为…”的主机名",
+					"desc": "请选择 Akamaized 要重定向的主机名。",
 					"items": [
 						{
 							"key": "upos-sz-mirrorali.bilivideo.com",
@@ -949,10 +949,10 @@
 				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.BStar",
-					"name": "[CDN] 重定向 国际版 主机名",
+					"name": "[主机名] 重定向 BStar CDN (国际版)",
 					"val": "upos-sz-mirrorali.bilivideo.com",
 					"type": "selects",
-					"desc": "请选择要“重定向为…”的主机名",
+					"desc": "请选择 BStar 要重定向的主机名。",
 					"items": [
 						{
 							"key": "upos-sz-mirrorali.bilivideo.com",
@@ -982,10 +982,10 @@
 				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.PCDN",
-					"name": "[PCDN] 重定向 PCDN 主机名",
+					"name": "[主机名] 重定向 PCDN 主机名 (中国大陆)",
 					"val": "upos-sz-mirrorali.bilivideo.com",
 					"type": "selects",
-					"desc": "请选择要“重定向为…”的主机名",
+					"desc": "请选择 PCDN 要重定向的主机名。",
 					"items": [
 						{
 							"key": "upos-sz-mirrorali.bilivideo.com",
@@ -1015,10 +1015,10 @@
 				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.MCDN",
-					"name": "[MCDN] 重定向 MCDN 主机名",
+					"name": "[主机名] 重定向 MCDN 主机名 (中国大陆)",
 					"val": "proxy-tf-all-ws.bilivideo.com",
 					"type": "selects",
-					"desc": "请选择要“重定向为…”的主机名",
+					"desc": "请选择 MCDN 要重定向的主机名。",
 					"items": [
 						{
 							"key": "proxy-tf-all-ws.bilivideo.com",
