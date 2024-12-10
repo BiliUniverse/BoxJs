@@ -9,31 +9,20 @@
 		{
 			"id": "BiliBili.Enhanced.Home.beta",
 			"name": "📺 BiliBili: ⚙ Enhanced (首页) β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Home", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Enhanced.Settings.Switch",
-					"name": "总功能开关",
+					"id": "@BiliBili.Enhanced.Settings.Home.Switch",
+					"name": "面板修改开关",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此APP修改"
+					"desc": "是否启用此面板修改"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Home.Tab",
 					"name": "首页: 标签页",
-					"val": [
-						"直播tab",
-						"推荐tab",
-						"hottopic",
-						"bangumi",
-						"anime",
-						"film",
-						"koreavtw"
-					],
+					"val": ["直播tab", "推荐tab", "hottopic", "bangumi", "anime", "film", "koreavtw"],
 					"type": "checkboxes",
 					"items": [
 						{
@@ -242,29 +231,20 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Region.beta",
 			"name": "📺 BiliBili: ⚙ Enhanced (分区) β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
-			"keys": [
-				"@BiliBili.Enhanced.Settings.Region",
-				"@BiliBili.Enhanced.Caches"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"keys": ["@BiliBili.Enhanced.Settings.Region", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Enhanced.Settings.Switch",
-					"name": "总功能开关",
+					"id": "@BiliBili.Enhanced.Settings.Region.Switch",
+					"name": "面板修改开关",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此APP修改"
+					"desc": "是否启用此面板修改"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Region.Index",
@@ -479,26 +459,20 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Mine.beta",
 			"name": "📺 BiliBili: ⚙ Enhanced (我的) iOS版 β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Mine", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Enhanced.Settings.Switch",
-					"name": "总功能开关",
+					"id": "@BiliBili.Enhanced.Settings.Mine.Switch",
+					"name": "面板修改开关",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此APP修改"
+					"desc": "是否启用此面板修改"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.CreatorCenter",
@@ -642,29 +616,20 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Mine.iPad.beta",
 			"name": "📺 BiliBili: ⚙ Enhanced (我的) iPad版 β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
-			"keys": [
-				"@BiliBili.Enhanced.Settings.Mine.iPad",
-				"@BiliBili.Enhanced.Caches"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"keys": ["@BiliBili.Enhanced.Settings.Mine.iPad", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Enhanced.Settings.Switch",
-					"name": "总功能开关",
+					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Switch",
+					"name": "面板修改开关",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此APP修改"
+					"desc": "是否启用此面板修改"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Upper",
@@ -752,27 +717,14 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Enhanced/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Global.beta",
 			"name": "📺 BiliBili: 🌐 Global β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Global.BiliUniverse.io\">🪐 BiliUniverse: 🌐 Global</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Global.BiliUniverse.io\">🪐 BiliUniverse: 🌐 Global</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Global.Settings", "@BiliBili.Global.Caches"],
 			"settings": [
-				{
-					"id": "@BiliBili.Global.Settings.Switch",
-					"name": "总功能开关",
-					"val": true,
-					"type": "boolean",
-					"desc": "是否启用此APP修改"
-				},
 				{
 					"id": "@BiliBili.Global.Settings.ForceHost",
 					"name": "强制CDN主机名类型",
@@ -850,27 +802,14 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Global/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Global/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Global/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Global/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Global/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Redirect.beta",
 			"name": "📺 BiliBili: 🔀 Redirect β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Redirect.BiliUniverse.io\">🪐 BiliUniverse: 🔀 Redirect</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Redirect.BiliUniverse.io\">🪐 BiliUniverse: 🔀 Redirect</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Redirect.Settings", "@BiliBili.Redirect.Caches"],
 			"settings": [
-				{
-					"id": "@BiliBili.Redirect.Settings.Switch",
-					"name": "总功能开关",
-					"val": true,
-					"type": "boolean",
-					"desc": "是否启用此APP修改"
-				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.Akamaized",
 					"name": "[主机名] 重定向 Akamaized CDN (港澳台)",
@@ -986,18 +925,12 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Redirect/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Redirect/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Redirect/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Redirect/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Redirect/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.ADBlock.beta",
 			"name": "📺 BiliBili: 🛡️ ADBlock β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://ADBlock.BiliUniverse.io\">🪐 BiliUniverse: 🛡️ ADBlock</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://ADBlock.BiliUniverse.io\">🪐 BiliUniverse: 🛡️ ADBlock</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.ADBlock.Settings", "@BiliBili.ADBlock.Caches"],
 			"settings": [
 				{
@@ -1122,27 +1055,14 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/ADBlock/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/ADBlock/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/ADBlock/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/ADBlock/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/ADBlock/raw/dev/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Roaming.beta",
 			"name": "📺 BiliBili: ✈ Roaming β",
-			"descs_html": [
-				"使用说明请见<a href=\"https://Roaming.BiliUniverse.io\">🪐 BiliUniverse: ✈ Roaming</a>进行配置",
-				"填写完成后记得点击此页面底端右下角的\"保存\"。"
-			],
+			"descs_html": ["使用说明请见<a href=\"https://Roaming.BiliUniverse.io\">🪐 BiliUniverse: ✈ Roaming</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Roaming.Settings", "@BiliBili.Roaming.Caches"],
 			"settings": [
-				{
-					"id": "@BiliBili.Roaming.Settings.Switch",
-					"name": "总功能开关",
-					"val": true,
-					"type": "boolean",
-					"desc": "是否启用此APP修改"
-				},
 				{
 					"id": "@BiliBili.Roaming.Settings.Proxy.Pool",
 					"name": "代理池选择",
@@ -1246,10 +1166,7 @@
 			],
 			"author": "@BiliUniverse",
 			"repo": "https://github.com/BiliUniverse/Roaming/tree/dev",
-			"icons": [
-				"https://github.com/BiliUniverse/Roaming/raw/dev/src/assets/icon_circled_108x.png",
-				"https://github.com/BiliUniverse/Roaming/raw/dev/src/assets/icon_circled_108x.png"
-			]
+			"icons": ["https://github.com/BiliUniverse/Roaming/raw/dev/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Roaming/raw/dev/src/assets/icon_circled_108x.png"]
 		}
 	]
 }
