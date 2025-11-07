@@ -634,8 +634,8 @@
 			"keys": ["@BiliBili.Redirect.Settings", "@BiliBili.Redirect.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Redirect.Settings.Host.Akamaized",
-					"name": "[主机名] 重定向 Akamaized CDN (港澳台)",
+					"id": "@BiliBili.Redirect.Settings.Host.OverseaVideo",
+					"name": "[主机名] 重定向 OverseaVideo CDN (港澳台)",
 					"type": "selects",
 					"val": "upos-sz-mirrorali.bilivideo.com",
 					"items": [
@@ -646,7 +646,7 @@
 						{ "key": "upos-sz-mirrorcosov.bilivideo.com", "label": "腾讯云 CDN，海外" },
 						{ "key": "upos-sz-mirrorhwov.bilivideo.com", "label": "华为云 CDN，海外" }
 					],
-					"desc": "请选择 Akamaized 要重定向的主机名。"
+					"desc": "请选择 OverseaVideo 要重定向的主机名。"
 				},
 				{
 					"id": "@BiliBili.Redirect.Settings.Host.BStar",
