@@ -14,10 +14,10 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Home.Switch",
-					"name": "[首页] 面板修改开关",
+					"name": "[首页] 启用此标签页自定义功能",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此面板修改。"
+					"desc": "启用后可自定义首页标签页、顶栏按钮等内容。"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Home.Tab",
@@ -110,14 +110,14 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Region.Switch",
-					"name": "[分区] 面板修改开关",
+					"name": "[分区] 启用此标签页自定义功能",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此面板修改。"
+					"desc": "启用后可自定义分区标签页的内容。"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Region.Index",
-					"name": "分区",
+					"name": "分区选择",
 					"val": [
 						"1",
 						"3",
@@ -338,10 +338,10 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.Switch",
-					"name": "[我的] 面板修改开关",
+					"name": "[我的] 启用此标签页自定义功能",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此面板修改。"
+					"desc": "启用后可自定义我的标签页的服务内容。"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.CreatorCenter",
@@ -495,10 +495,10 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Switch",
-					"name": "[我的 iPad版] 面板修改开关",
+					"name": "[我的 iPad版] 启用此标签页自定义功能",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此面板修改。"
+					"desc": "启用后可自定义我的标签页的服务内容。"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Upper",
