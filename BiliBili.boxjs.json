@@ -13,6 +13,13 @@
 			"keys": ["@BiliBili.Enhanced.Settings.Home", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
+					"id": "@BiliBili.Enhanced.Settings.Home.Switch",
+					"name": "[首页] 面板修改开关",
+					"val": true,
+					"type": "boolean",
+					"desc": "是否启用此面板修改。"
+				},
+				{
 					"id": "@BiliBili.Enhanced.Settings.Home.Tab",
 					"name": "[首页] 标签页",
 					"type": "checkboxes",
@@ -101,6 +108,13 @@
 			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Region", "@BiliBili.Enhanced.Caches"],
 			"settings": [
+				{
+					"id": "@BiliBili.Enhanced.Settings.Region.Switch",
+					"name": "[分区] 面板修改开关",
+					"val": true,
+					"type": "boolean",
+					"desc": "是否启用此面板修改。"
+				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Region.Index",
 					"name": "分区",
@@ -323,6 +337,13 @@
 			"keys": ["@BiliBili.Enhanced.Settings.Mine", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
+					"id": "@BiliBili.Enhanced.Settings.Mine.Switch",
+					"name": "[我的] 面板修改开关",
+					"val": true,
+					"type": "boolean",
+					"desc": "是否启用此面板修改。"
+				},
+				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.CreatorCenter",
 					"name": "创作中心",
 					"val": [],
@@ -473,11 +494,11 @@
 			"keys": ["@BiliBili.Enhanced.Settings.Mine.iPad", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
-					"id": "@BiliBili.Enhanced.Settings.Mine.iPadSwitch",
-					"name": "总功能开关",
+					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Switch",
+					"name": "[我的 iPad版] 面板修改开关",
 					"val": true,
 					"type": "boolean",
-					"desc": "是否启用此APP修改"
+					"desc": "是否启用此面板修改。"
 				},
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Upper",

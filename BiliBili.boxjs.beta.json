@@ -14,7 +14,7 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Home.Switch",
-					"name": "面板修改开关",
+					"name": "[首页] 面板修改开关",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用此面板修改。"
@@ -110,7 +110,7 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Region.Switch",
-					"name": "面板修改开关",
+					"name": "[分区] 面板修改开关",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用此面板修改。"
@@ -338,7 +338,7 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.Switch",
-					"name": "面板修改开关",
+					"name": "[我的] 面板修改开关",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用此面板修改。"
@@ -495,7 +495,7 @@
 			"settings": [
 				{
 					"id": "@BiliBili.Enhanced.Settings.Mine.iPad.Switch",
-					"name": "面板修改开关",
+					"name": "[我的 iPad版] 面板修改开关",
 					"val": true,
 					"type": "boolean",
 					"desc": "是否启用此面板修改。"
