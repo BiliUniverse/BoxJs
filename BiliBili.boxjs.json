@@ -1,15 +1,15 @@
 {
-	"id": "BiliUniverse.BiliBili.sub",
-	"name": "🪐 BiliUniverse: 📺 BiliBili",
-	"author": "@BiliUniverse",
+	"id": "Biliverse.BiliBili.sub",
+	"name": "🪐 Biliverse: 📺 BiliBili",
+	"author": "@Biliverse",
 	"description": "哔哩哔哩中国版流媒体平台功能增强系列",
 	"icon": "https://avatars.githubusercontent.com/u/129515498?s=200&v=4",
-	"repo": "https://github.com/BiliUniverse/Universe",
+	"repo": "https://github.com/Biliverse/Universe",
 	"apps": [
 		{
 			"id": "BiliBili.Enhanced.Home",
 			"name": "📺 BiliBili: ⚙ Enhanced (首页)",
-			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/enhanced\">🪐 Biliverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Home", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
@@ -98,14 +98,14 @@
 					"desc": "选择脚本日志的输出等级，低于所选等级的日志将全部输出。"
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Enhanced",
-			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Enhanced",
+			"icons": ["https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Region",
 			"name": "📺 BiliBili: ⚙ Enhanced (分区)",
-			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/enhanced\">🪐 Biliverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Region", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
@@ -326,14 +326,14 @@
 					"desc": "选择要显示的分区"
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Enhanced",
-			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Enhanced",
+			"icons": ["https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Mine",
 			"name": "📺 BiliBili: ⚙ Enhanced (我的) iOS版",
-			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/enhanced\">🪐 Biliverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Mine", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
@@ -483,14 +483,14 @@
 					"desc": ""
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Enhanced/tree/beta",
-			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Enhanced/tree/beta",
+			"icons": ["https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Enhanced.Mine.iPad",
 			"name": "📺 BiliBili: ⚙ Enhanced (我的) iPad版",
-			"descs_html": ["使用说明请见<a href=\"https://Enhanced.BiliUniverse.io\">🪐 BiliUniverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/enhanced\">🪐 Biliverse: ⚙️ Enhanced</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Enhanced.Settings.Mine.iPad", "@BiliBili.Enhanced.Caches"],
 			"settings": [
 				{
@@ -584,14 +584,14 @@
 					"desc": ""
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Enhanced",
-			"icons": ["https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Enhanced",
+			"icons": ["https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Enhanced/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Global",
 			"name": "📺 BiliBili: 🌐 Global",
-			"descs_html": ["使用说明请见<a href=\"https://Global.BiliUniverse.io\">🪐 BiliUniverse: 🌐 Global</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/global\">🪐 Biliverse: 🌐 Global</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Global.Settings", "@BiliBili.Global.Caches"],
 			"settings": [
 				{
@@ -623,14 +623,14 @@
 					"desc": "选择脚本日志的输出等级，低于所选等级的日志将全部输出。"
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Global",
-			"icons": ["https://github.com/BiliUniverse/Global/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Global/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Global",
+			"icons": ["https://github.com/Biliverse/Global/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Global/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.Redirect",
 			"name": "📺 BiliBili: 🔀 Redirect",
-			"descs_html": ["使用说明请见<a href=\"https://Redirect.BiliUniverse.io\">🪐 BiliUniverse: 🔀 Redirect</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/redirect\">🪐 Biliverse: 🔀 Redirect</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.Redirect.Settings", "@BiliBili.Redirect.Caches"],
 			"settings": [
 				{
@@ -688,14 +688,14 @@
 					"desc": "选择脚本日志的输出等级，低于所选等级的日志将全部输出。"
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/Redirect",
-			"icons": ["https://github.com/BiliUniverse/Redirect/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/Redirect/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/Redirect",
+			"icons": ["https://github.com/Biliverse/Redirect/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/Redirect/raw/main/src/assets/icon_circled_108x.png"]
 		},
 		{
 			"id": "BiliBili.ADBlock",
 			"name": "📺 BiliBili: 🛡️ ADBlock",
-			"descs_html": ["使用说明请见<a href=\"https://ADBlock.BiliUniverse.io\">🪐 BiliUniverse: 🛡️ ADBlock</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
+			"descs_html": ["使用说明请见<a href=\"https://biliverse.github.io/guide/ad-block\">🪐 Biliverse: 🛡️ ADBlock</a>进行配置", "填写完成后记得点击此页面底端右下角的\"保存\"。"],
 			"keys": ["@BiliBili.ADBlock.Settings", "@BiliBili.ADBlock.Caches"],
 			"settings": [
 				{ "id": "@BiliBili.ADBlock.Settings.Splash", "name": "[开屏] 去除广告", "type": "boolean", "val": true, "desc": "是否启用此处修改" },
@@ -724,9 +724,9 @@
 					"desc": "选择脚本日志的输出等级，低于所选等级的日志将全部输出。"
 				}
 			],
-			"author": "@BiliUniverse",
-			"repo": "https://github.com/BiliUniverse/ADBlock",
-			"icons": ["https://github.com/BiliUniverse/ADBlock/raw/main/src/assets/icon_circled_108x.png", "https://github.com/BiliUniverse/ADBlock/raw/main/src/assets/icon_circled_108x.png"]
+			"author": "@Biliverse",
+			"repo": "https://github.com/Biliverse/ADBlock",
+			"icons": ["https://github.com/Biliverse/ADBlock/raw/main/src/assets/icon_circled_108x.png", "https://github.com/Biliverse/ADBlock/raw/main/src/assets/icon_circled_108x.png"]
 		}
 	]
 }
